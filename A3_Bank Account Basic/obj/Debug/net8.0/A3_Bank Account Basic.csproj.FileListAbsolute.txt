@@ -1,0 +1,14 @@
+C:\Users\ashah\source\repos\Oops Assignments\A3_Bank Account Basic\bin\Debug\net8.0\A3_Bank Account Basic.exe
+C:\Users\ashah\source\repos\Oops Assignments\A3_Bank Account Basic\bin\Debug\net8.0\A3_Bank Account Basic.deps.json
+C:\Users\ashah\source\repos\Oops Assignments\A3_Bank Account Basic\bin\Debug\net8.0\A3_Bank Account Basic.runtimeconfig.json
+C:\Users\ashah\source\repos\Oops Assignments\A3_Bank Account Basic\bin\Debug\net8.0\A3_Bank Account Basic.dll
+C:\Users\ashah\source\repos\Oops Assignments\A3_Bank Account Basic\bin\Debug\net8.0\A3_Bank Account Basic.pdb
+C:\Users\ashah\source\repos\Oops Assignments\A3_Bank Account Basic\obj\Debug\net8.0\A3_Bank Account Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashah\source\repos\Oops Assignments\A3_Bank Account Basic\obj\Debug\net8.0\A3_Bank Account Basic.AssemblyInfoInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\A3_Bank Account Basic\obj\Debug\net8.0\A3_Bank Account Basic.AssemblyInfo.cs
+C:\Users\ashah\source\repos\Oops Assignments\A3_Bank Account Basic\obj\Debug\net8.0\A3_Bank Account Basic.csproj.CoreCompileInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\A3_Bank Account Basic\obj\Debug\net8.0\A3_Bank Account Basic.dll
+C:\Users\ashah\source\repos\Oops Assignments\A3_Bank Account Basic\obj\Debug\net8.0\refint\A3_Bank Account Basic.dll
+C:\Users\ashah\source\repos\Oops Assignments\A3_Bank Account Basic\obj\Debug\net8.0\A3_Bank Account Basic.pdb
+C:\Users\ashah\source\repos\Oops Assignments\A3_Bank Account Basic\obj\Debug\net8.0\A3_Bank Account Basic.genruntimeconfig.cache
+C:\Users\ashah\source\repos\Oops Assignments\A3_Bank Account Basic\obj\Debug\net8.0\ref\A3_Bank Account Basic.dll
