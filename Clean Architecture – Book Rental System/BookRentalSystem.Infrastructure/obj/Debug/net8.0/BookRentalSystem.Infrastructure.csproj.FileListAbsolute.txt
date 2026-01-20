@@ -1,0 +1,17 @@
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\obj\Debug\net8.0\BookRentalSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\obj\Debug\net8.0\BookRentalSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\obj\Debug\net8.0\BookRentalSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\obj\Debug\net8.0\BookRentalSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\bin\Debug\net8.0\BookRentalSystem.Infrastructure.deps.json
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\bin\Debug\net8.0\BookRentalSystem.Infrastructure.dll
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\bin\Debug\net8.0\BookRentalSystem.Infrastructure.pdb
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\bin\Debug\net8.0\BookRentalSystem.Application.dll
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\bin\Debug\net8.0\BookRentalSystem.Domain.dll
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\bin\Debug\net8.0\BookRentalSystem.Application.pdb
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\bin\Debug\net8.0\BookRentalSystem.Domain.pdb
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\obj\Debug\net8.0\BookRentalSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\obj\Debug\net8.0\BookRent.72DCBA42.Up2Date
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\obj\Debug\net8.0\BookRentalSystem.Infrastructure.dll
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\obj\Debug\net8.0\refint\BookRentalSystem.Infrastructure.dll
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\obj\Debug\net8.0\BookRentalSystem.Infrastructure.pdb
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Infrastructure\obj\Debug\net8.0\ref\BookRentalSystem.Infrastructure.dll
