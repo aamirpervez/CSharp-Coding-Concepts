@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BookRentalSystem.Application/1.0.0": {
+        "dependencies": {
+          "BookRentalSystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BookRentalSystem.Application.dll": {}
+        }
+      },
+      "BookRentalSystem.Domain/1.0.0": {
+        "runtime": {
+          "BookRentalSystem.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookRentalSystem.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookRentalSystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

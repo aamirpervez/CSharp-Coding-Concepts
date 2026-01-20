@@ -1,0 +1,15 @@
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Application\obj\Debug\net8.0\BookRentalSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Application\obj\Debug\net8.0\BookRentalSystem.Application.AssemblyInfoInputs.cache
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Application\obj\Debug\net8.0\BookRentalSystem.Application.AssemblyInfo.cs
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Application\obj\Debug\net8.0\BookRentalSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Application\bin\Debug\net8.0\BookRentalSystem.Application.deps.json
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Application\bin\Debug\net8.0\BookRentalSystem.Application.dll
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Application\bin\Debug\net8.0\BookRentalSystem.Application.pdb
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Application\bin\Debug\net8.0\BookRentalSystem.Domain.dll
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Application\bin\Debug\net8.0\BookRentalSystem.Domain.pdb
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Application\obj\Debug\net8.0\BookRentalSystem.Application.csproj.AssemblyReference.cache
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Application\obj\Debug\net8.0\BookRent.7EE4CA93.Up2Date
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Application\obj\Debug\net8.0\BookRentalSystem.Application.dll
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Application\obj\Debug\net8.0\refint\BookRentalSystem.Application.dll
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Application\obj\Debug\net8.0\BookRentalSystem.Application.pdb
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Application\obj\Debug\net8.0\ref\BookRentalSystem.Application.dll

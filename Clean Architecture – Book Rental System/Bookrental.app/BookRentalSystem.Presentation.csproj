@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject>BookRentalSystem.Presentation.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookRentalSystem.Application\BookRentalSystem.Application.csproj" />
+    <ProjectReference Include="..\BookRentalSystem.Domain\BookRentalSystem.Domain.csproj" />
+    <ProjectReference Include="..\BookRentalSystem.Infrastructure\BookRentalSystem.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BookRentalSystem.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BookRentalSystem.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookRentalSystem.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookRentalSystem.Application.dll": {}
+        }
+      },
+      "BookRentalSystem.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BookRentalSystem.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookRentalSystem.Domain.dll": {}
+        }
+      },
+      "BookRentalSystem.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BookRentalSystem.Application": "1.0.0",
+          "BookRentalSystem.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookRentalSystem.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookRentalSystem.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookRentalSystem.Application/1.0.0": {
+      "type": "project",
+      "path": "../BookRentalSystem.Application/BookRentalSystem.Application.csproj",
+      "msbuildProject": "../BookRentalSystem.Application/BookRentalSystem.Application.csproj"
+    },
+    "BookRentalSystem.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BookRentalSystem.Domain/BookRentalSystem.Domain.csproj",
+      "msbuildProject": "../BookRentalSystem.Domain/BookRentalSystem.Domain.csproj"
+    },
+    "BookRentalSystem.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../BookRentalSystem.Infrastructure/BookRentalSystem.Infrastructure.csproj",
+      "msbuildProject": "../BookRentalSystem.Infrastructure/BookRentalSystem.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BookRentalSystem.Application >= 1.0.0",
+      "BookRentalSystem.Domain >= 1.0.0",
+      "BookRentalSystem.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ashah\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ashah\\source\\repos\\Clean Architecture – Book Rental System\\Bookrental.app\\BookRentalSystem.Presentation.csproj",
+      "projectName": "BookRentalSystem.Presentation",
+      "projectPath": "C:\\Users\\ashah\\source\\repos\\Clean Architecture – Book Rental System\\Bookrental.app\\BookRentalSystem.Presentation.csproj",
+      "packagesPath": "C:\\Users\\ashah\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ashah\\source\\repos\\Clean Architecture – Book Rental System\\Bookrental.app\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ashah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\ashah\\source\\repos\\Clean Architecture – Book Rental System\\BookRentalSystem.Application\\BookRentalSystem.Application.csproj": {
+              "projectPath": "C:\\Users\\ashah\\source\\repos\\Clean Architecture – Book Rental System\\BookRentalSystem.Application\\BookRentalSystem.Application.csproj"
+            },
+            "C:\\Users\\ashah\\source\\repos\\Clean Architecture – Book Rental System\\BookRentalSystem.Domain\\BookRentalSystem.Domain.csproj": {
+              "projectPath": "C:\\Users\\ashah\\source\\repos\\Clean Architecture – Book Rental System\\BookRentalSystem.Domain\\BookRentalSystem.Domain.csproj"
+            },
+            "C:\\Users\\ashah\\source\\repos\\Clean Architecture – Book Rental System\\BookRentalSystem.Infrastructure\\BookRentalSystem.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ashah\\source\\repos\\Clean Architecture – Book Rental System\\BookRentalSystem.Infrastructure\\BookRentalSystem.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Domain\obj\Debug\net8.0\BookRentalSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Domain\obj\Debug\net8.0\BookRentalSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Domain\obj\Debug\net8.0\BookRentalSystem.Domain.AssemblyInfo.cs
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Domain\obj\Debug\net8.0\BookRentalSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Domain\bin\Debug\net8.0\BookRentalSystem.Domain.deps.json
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Domain\bin\Debug\net8.0\BookRentalSystem.Domain.dll
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Domain\bin\Debug\net8.0\BookRentalSystem.Domain.pdb
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Domain\obj\Debug\net8.0\BookRentalSystem.Domain.dll
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Domain\obj\Debug\net8.0\refint\BookRentalSystem.Domain.dll
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Domain\obj\Debug\net8.0\BookRentalSystem.Domain.pdb
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\BookRentalSystem.Domain\obj\Debug\net8.0\ref\BookRentalSystem.Domain.dll

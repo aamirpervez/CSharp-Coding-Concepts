@@ -1,0 +1,4 @@
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\Bookrental.app\obj\Debug\net8.0\Bookrental.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\Bookrental.app\obj\Debug\net8.0\Bookrental.app.AssemblyInfoInputs.cache
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\Bookrental.app\obj\Debug\net8.0\Bookrental.app.AssemblyInfo.cs
+C:\Users\ashah\source\repos\Clean Architecture – Book Rental System\Bookrental.app\obj\Debug\net8.0\Bookrental.app.csproj.CoreCompileInputs.cache
