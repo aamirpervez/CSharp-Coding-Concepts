@@ -1,0 +1,14 @@
+C:\Users\ashah\source\repos\Oops Assignments\Simple Person Class\bin\Debug\net8.0\A1_Simple Person Class.exe
+C:\Users\ashah\source\repos\Oops Assignments\Simple Person Class\bin\Debug\net8.0\A1_Simple Person Class.deps.json
+C:\Users\ashah\source\repos\Oops Assignments\Simple Person Class\bin\Debug\net8.0\A1_Simple Person Class.runtimeconfig.json
+C:\Users\ashah\source\repos\Oops Assignments\Simple Person Class\bin\Debug\net8.0\A1_Simple Person Class.dll
+C:\Users\ashah\source\repos\Oops Assignments\Simple Person Class\bin\Debug\net8.0\A1_Simple Person Class.pdb
+C:\Users\ashah\source\repos\Oops Assignments\Simple Person Class\obj\Debug\net8.0\A1_Simple Person Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashah\source\repos\Oops Assignments\Simple Person Class\obj\Debug\net8.0\A1_Simple Person Class.AssemblyInfoInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\Simple Person Class\obj\Debug\net8.0\A1_Simple Person Class.AssemblyInfo.cs
+C:\Users\ashah\source\repos\Oops Assignments\Simple Person Class\obj\Debug\net8.0\A1_Simple Person Class.csproj.CoreCompileInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\Simple Person Class\obj\Debug\net8.0\A1_Simple Person Class.dll
+C:\Users\ashah\source\repos\Oops Assignments\Simple Person Class\obj\Debug\net8.0\refint\A1_Simple Person Class.dll
+C:\Users\ashah\source\repos\Oops Assignments\Simple Person Class\obj\Debug\net8.0\A1_Simple Person Class.pdb
+C:\Users\ashah\source\repos\Oops Assignments\Simple Person Class\obj\Debug\net8.0\A1_Simple Person Class.genruntimeconfig.cache
+C:\Users\ashah\source\repos\Oops Assignments\Simple Person Class\obj\Debug\net8.0\ref\A1_Simple Person Class.dll
