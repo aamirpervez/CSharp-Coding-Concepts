@@ -1,0 +1,14 @@
+C:\Users\ashah\source\repos\Oops Assignments\AA_6 Simple Game Character System\obj\Debug\net8.0\AA_6 Simple Game Character System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashah\source\repos\Oops Assignments\AA_6 Simple Game Character System\obj\Debug\net8.0\AA_6 Simple Game Character System.AssemblyInfoInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\AA_6 Simple Game Character System\obj\Debug\net8.0\AA_6 Simple Game Character System.AssemblyInfo.cs
+C:\Users\ashah\source\repos\Oops Assignments\AA_6 Simple Game Character System\obj\Debug\net8.0\AA_6 Simple Game Character System.csproj.CoreCompileInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\AA_6 Simple Game Character System\bin\Debug\net8.0\AA_6 Simple Game Character System.exe
+C:\Users\ashah\source\repos\Oops Assignments\AA_6 Simple Game Character System\bin\Debug\net8.0\AA_6 Simple Game Character System.deps.json
+C:\Users\ashah\source\repos\Oops Assignments\AA_6 Simple Game Character System\bin\Debug\net8.0\AA_6 Simple Game Character System.runtimeconfig.json
+C:\Users\ashah\source\repos\Oops Assignments\AA_6 Simple Game Character System\bin\Debug\net8.0\AA_6 Simple Game Character System.dll
+C:\Users\ashah\source\repos\Oops Assignments\AA_6 Simple Game Character System\bin\Debug\net8.0\AA_6 Simple Game Character System.pdb
+C:\Users\ashah\source\repos\Oops Assignments\AA_6 Simple Game Character System\obj\Debug\net8.0\AA_6 Simple Game Character System.dll
+C:\Users\ashah\source\repos\Oops Assignments\AA_6 Simple Game Character System\obj\Debug\net8.0\refint\AA_6 Simple Game Character System.dll
+C:\Users\ashah\source\repos\Oops Assignments\AA_6 Simple Game Character System\obj\Debug\net8.0\AA_6 Simple Game Character System.pdb
+C:\Users\ashah\source\repos\Oops Assignments\AA_6 Simple Game Character System\obj\Debug\net8.0\AA_6 Simple Game Character System.genruntimeconfig.cache
+C:\Users\ashah\source\repos\Oops Assignments\AA_6 Simple Game Character System\obj\Debug\net8.0\ref\AA_6 Simple Game Character System.dll

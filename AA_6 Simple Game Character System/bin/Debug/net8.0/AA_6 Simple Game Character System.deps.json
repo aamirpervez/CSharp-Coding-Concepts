@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AA_6 Simple Game Character System/1.0.0": {
+        "runtime": {
+          "AA_6 Simple Game Character System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AA_6 Simple Game Character System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
