@@ -1,0 +1,15 @@
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Application\bin\Debug\net8.0\CarWash.Application.deps.json
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Application\bin\Debug\net8.0\CarWash.Application.dll
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Application\bin\Debug\net8.0\CarWash.Application.pdb
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Application\bin\Debug\net8.0\CarWash.Domain.dll
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Application\bin\Debug\net8.0\CarWash.Domain.pdb
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Application\obj\Debug\net8.0\CarWash.Application.csproj.AssemblyReference.cache
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Application\obj\Debug\net8.0\CarWash.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Application\obj\Debug\net8.0\CarWash.Application.AssemblyInfoInputs.cache
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Application\obj\Debug\net8.0\CarWash.Application.AssemblyInfo.cs
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Application\obj\Debug\net8.0\CarWash.Application.csproj.CoreCompileInputs.cache
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Application\obj\Debug\net8.0\CarWash..CF4E541A.Up2Date
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Application\obj\Debug\net8.0\CarWash.Application.dll
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Application\obj\Debug\net8.0\refint\CarWash.Application.dll
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Application\obj\Debug\net8.0\CarWash.Application.pdb
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Application\obj\Debug\net8.0\ref\CarWash.Application.dll
