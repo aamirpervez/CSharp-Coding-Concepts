@@ -1,0 +1,14 @@
+C:\Users\ashah\source\repos\Oops Assignments\AA4_Simple Shopping Cart\bin\Debug\net8.0\AA4_Simple Shopping Cart.exe
+C:\Users\ashah\source\repos\Oops Assignments\AA4_Simple Shopping Cart\bin\Debug\net8.0\AA4_Simple Shopping Cart.deps.json
+C:\Users\ashah\source\repos\Oops Assignments\AA4_Simple Shopping Cart\bin\Debug\net8.0\AA4_Simple Shopping Cart.runtimeconfig.json
+C:\Users\ashah\source\repos\Oops Assignments\AA4_Simple Shopping Cart\bin\Debug\net8.0\AA4_Simple Shopping Cart.dll
+C:\Users\ashah\source\repos\Oops Assignments\AA4_Simple Shopping Cart\bin\Debug\net8.0\AA4_Simple Shopping Cart.pdb
+C:\Users\ashah\source\repos\Oops Assignments\AA4_Simple Shopping Cart\obj\Debug\net8.0\AA4_Simple Shopping Cart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashah\source\repos\Oops Assignments\AA4_Simple Shopping Cart\obj\Debug\net8.0\AA4_Simple Shopping Cart.AssemblyInfoInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\AA4_Simple Shopping Cart\obj\Debug\net8.0\AA4_Simple Shopping Cart.AssemblyInfo.cs
+C:\Users\ashah\source\repos\Oops Assignments\AA4_Simple Shopping Cart\obj\Debug\net8.0\AA4_Simple Shopping Cart.csproj.CoreCompileInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\AA4_Simple Shopping Cart\obj\Debug\net8.0\AA4_Simple Shopping Cart.dll
+C:\Users\ashah\source\repos\Oops Assignments\AA4_Simple Shopping Cart\obj\Debug\net8.0\refint\AA4_Simple Shopping Cart.dll
+C:\Users\ashah\source\repos\Oops Assignments\AA4_Simple Shopping Cart\obj\Debug\net8.0\AA4_Simple Shopping Cart.pdb
+C:\Users\ashah\source\repos\Oops Assignments\AA4_Simple Shopping Cart\obj\Debug\net8.0\AA4_Simple Shopping Cart.genruntimeconfig.cache
+C:\Users\ashah\source\repos\Oops Assignments\AA4_Simple Shopping Cart\obj\Debug\net8.0\ref\AA4_Simple Shopping Cart.dll

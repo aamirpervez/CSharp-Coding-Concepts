@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AA_4 Simple Shopping Cart/1.0.0": {
+        "runtime": {
+          "AA_4 Simple Shopping Cart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AA_4 Simple Shopping Cart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
