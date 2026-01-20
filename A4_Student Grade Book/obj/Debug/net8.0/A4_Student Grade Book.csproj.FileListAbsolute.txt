@@ -1,0 +1,14 @@
+C:\Users\ashah\source\repos\Oops Assignments\Student Grade Book\bin\Debug\net8.0\A4_Student Grade Book.exe
+C:\Users\ashah\source\repos\Oops Assignments\Student Grade Book\bin\Debug\net8.0\A4_Student Grade Book.deps.json
+C:\Users\ashah\source\repos\Oops Assignments\Student Grade Book\bin\Debug\net8.0\A4_Student Grade Book.runtimeconfig.json
+C:\Users\ashah\source\repos\Oops Assignments\Student Grade Book\bin\Debug\net8.0\A4_Student Grade Book.dll
+C:\Users\ashah\source\repos\Oops Assignments\Student Grade Book\bin\Debug\net8.0\A4_Student Grade Book.pdb
+C:\Users\ashah\source\repos\Oops Assignments\Student Grade Book\obj\Debug\net8.0\A4_Student Grade Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashah\source\repos\Oops Assignments\Student Grade Book\obj\Debug\net8.0\A4_Student Grade Book.AssemblyInfoInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\Student Grade Book\obj\Debug\net8.0\A4_Student Grade Book.AssemblyInfo.cs
+C:\Users\ashah\source\repos\Oops Assignments\Student Grade Book\obj\Debug\net8.0\A4_Student Grade Book.csproj.CoreCompileInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\Student Grade Book\obj\Debug\net8.0\A4_Student Grade Book.dll
+C:\Users\ashah\source\repos\Oops Assignments\Student Grade Book\obj\Debug\net8.0\refint\A4_Student Grade Book.dll
+C:\Users\ashah\source\repos\Oops Assignments\Student Grade Book\obj\Debug\net8.0\A4_Student Grade Book.pdb
+C:\Users\ashah\source\repos\Oops Assignments\Student Grade Book\obj\Debug\net8.0\A4_Student Grade Book.genruntimeconfig.cache
+C:\Users\ashah\source\repos\Oops Assignments\Student Grade Book\obj\Debug\net8.0\ref\A4_Student Grade Book.dll
