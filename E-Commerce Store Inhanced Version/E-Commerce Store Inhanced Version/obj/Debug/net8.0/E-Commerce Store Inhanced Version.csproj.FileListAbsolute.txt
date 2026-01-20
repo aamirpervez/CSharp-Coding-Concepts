@@ -1,0 +1,14 @@
+C:\Users\ashah\source\repos\E-Commerce Store Inhanced Version\E-Commerce Store Inhanced Version\bin\Debug\net8.0\E-Commerce Store Inhanced Version.exe
+C:\Users\ashah\source\repos\E-Commerce Store Inhanced Version\E-Commerce Store Inhanced Version\bin\Debug\net8.0\E-Commerce Store Inhanced Version.deps.json
+C:\Users\ashah\source\repos\E-Commerce Store Inhanced Version\E-Commerce Store Inhanced Version\bin\Debug\net8.0\E-Commerce Store Inhanced Version.runtimeconfig.json
+C:\Users\ashah\source\repos\E-Commerce Store Inhanced Version\E-Commerce Store Inhanced Version\bin\Debug\net8.0\E-Commerce Store Inhanced Version.dll
+C:\Users\ashah\source\repos\E-Commerce Store Inhanced Version\E-Commerce Store Inhanced Version\bin\Debug\net8.0\E-Commerce Store Inhanced Version.pdb
+C:\Users\ashah\source\repos\E-Commerce Store Inhanced Version\E-Commerce Store Inhanced Version\obj\Debug\net8.0\E-Commerce Store Inhanced Version.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashah\source\repos\E-Commerce Store Inhanced Version\E-Commerce Store Inhanced Version\obj\Debug\net8.0\E-Commerce Store Inhanced Version.AssemblyInfoInputs.cache
+C:\Users\ashah\source\repos\E-Commerce Store Inhanced Version\E-Commerce Store Inhanced Version\obj\Debug\net8.0\E-Commerce Store Inhanced Version.AssemblyInfo.cs
+C:\Users\ashah\source\repos\E-Commerce Store Inhanced Version\E-Commerce Store Inhanced Version\obj\Debug\net8.0\E-Commerce Store Inhanced Version.csproj.CoreCompileInputs.cache
+C:\Users\ashah\source\repos\E-Commerce Store Inhanced Version\E-Commerce Store Inhanced Version\obj\Debug\net8.0\E-Commerce Store Inhanced Version.dll
+C:\Users\ashah\source\repos\E-Commerce Store Inhanced Version\E-Commerce Store Inhanced Version\obj\Debug\net8.0\refint\E-Commerce Store Inhanced Version.dll
+C:\Users\ashah\source\repos\E-Commerce Store Inhanced Version\E-Commerce Store Inhanced Version\obj\Debug\net8.0\E-Commerce Store Inhanced Version.pdb
+C:\Users\ashah\source\repos\E-Commerce Store Inhanced Version\E-Commerce Store Inhanced Version\obj\Debug\net8.0\E-Commerce Store Inhanced Version.genruntimeconfig.cache
+C:\Users\ashah\source\repos\E-Commerce Store Inhanced Version\E-Commerce Store Inhanced Version\obj\Debug\net8.0\ref\E-Commerce Store Inhanced Version.dll
