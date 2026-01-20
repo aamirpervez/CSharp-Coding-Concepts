@@ -1,0 +1,17 @@
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\bin\Debug\net8.0\CarWash.Infrasturcture.deps.json
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\bin\Debug\net8.0\CarWash.Infrasturcture.dll
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\bin\Debug\net8.0\CarWash.Infrasturcture.pdb
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\bin\Debug\net8.0\CarWash.Application.dll
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\bin\Debug\net8.0\CarWash.Domain.dll
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\bin\Debug\net8.0\CarWash.Application.pdb
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\bin\Debug\net8.0\CarWash.Domain.pdb
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\obj\Debug\net8.0\CarWash.Infrasturcture.csproj.AssemblyReference.cache
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\obj\Debug\net8.0\CarWash.Infrasturcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\obj\Debug\net8.0\CarWash.Infrasturcture.AssemblyInfoInputs.cache
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\obj\Debug\net8.0\CarWash.Infrasturcture.AssemblyInfo.cs
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\obj\Debug\net8.0\CarWash.Infrasturcture.csproj.CoreCompileInputs.cache
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\obj\Debug\net8.0\CarWash..DB360483.Up2Date
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\obj\Debug\net8.0\CarWash.Infrasturcture.dll
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\obj\Debug\net8.0\refint\CarWash.Infrasturcture.dll
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\obj\Debug\net8.0\CarWash.Infrasturcture.pdb
+C:\Users\ashah\source\repos\Car Wash Service\CarWash.Infrasturcture\obj\Debug\net8.0\ref\CarWash.Infrasturcture.dll
