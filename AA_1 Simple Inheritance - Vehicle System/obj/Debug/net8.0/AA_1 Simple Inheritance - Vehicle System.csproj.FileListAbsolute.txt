@@ -1,0 +1,14 @@
+C:\Users\ashah\source\repos\Oops Assignments\AA_1 Simple Inheritance - Vehicle System\bin\Debug\net8.0\AA_1 Simple Inheritance - Vehicle System.exe
+C:\Users\ashah\source\repos\Oops Assignments\AA_1 Simple Inheritance - Vehicle System\bin\Debug\net8.0\AA_1 Simple Inheritance - Vehicle System.deps.json
+C:\Users\ashah\source\repos\Oops Assignments\AA_1 Simple Inheritance - Vehicle System\bin\Debug\net8.0\AA_1 Simple Inheritance - Vehicle System.runtimeconfig.json
+C:\Users\ashah\source\repos\Oops Assignments\AA_1 Simple Inheritance - Vehicle System\bin\Debug\net8.0\AA_1 Simple Inheritance - Vehicle System.dll
+C:\Users\ashah\source\repos\Oops Assignments\AA_1 Simple Inheritance - Vehicle System\bin\Debug\net8.0\AA_1 Simple Inheritance - Vehicle System.pdb
+C:\Users\ashah\source\repos\Oops Assignments\AA_1 Simple Inheritance - Vehicle System\obj\Debug\net8.0\AA_1 Simple Inheritance - Vehicle System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashah\source\repos\Oops Assignments\AA_1 Simple Inheritance - Vehicle System\obj\Debug\net8.0\AA_1 Simple Inheritance - Vehicle System.AssemblyInfoInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\AA_1 Simple Inheritance - Vehicle System\obj\Debug\net8.0\AA_1 Simple Inheritance - Vehicle System.AssemblyInfo.cs
+C:\Users\ashah\source\repos\Oops Assignments\AA_1 Simple Inheritance - Vehicle System\obj\Debug\net8.0\AA_1 Simple Inheritance - Vehicle System.csproj.CoreCompileInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\AA_1 Simple Inheritance - Vehicle System\obj\Debug\net8.0\AA_1 Simple Inheritance - Vehicle System.dll
+C:\Users\ashah\source\repos\Oops Assignments\AA_1 Simple Inheritance - Vehicle System\obj\Debug\net8.0\refint\AA_1 Simple Inheritance - Vehicle System.dll
+C:\Users\ashah\source\repos\Oops Assignments\AA_1 Simple Inheritance - Vehicle System\obj\Debug\net8.0\AA_1 Simple Inheritance - Vehicle System.pdb
+C:\Users\ashah\source\repos\Oops Assignments\AA_1 Simple Inheritance - Vehicle System\obj\Debug\net8.0\AA_1 Simple Inheritance - Vehicle System.genruntimeconfig.cache
+C:\Users\ashah\source\repos\Oops Assignments\AA_1 Simple Inheritance - Vehicle System\obj\Debug\net8.0\ref\AA_1 Simple Inheritance - Vehicle System.dll
