@@ -1,0 +1,14 @@
+C:\Users\ashah\source\repos\Oops Assignments\A6_Rectangle Area Calculator\bin\Debug\net8.0\A6_Rectangle Area Calculator.exe
+C:\Users\ashah\source\repos\Oops Assignments\A6_Rectangle Area Calculator\bin\Debug\net8.0\A6_Rectangle Area Calculator.deps.json
+C:\Users\ashah\source\repos\Oops Assignments\A6_Rectangle Area Calculator\bin\Debug\net8.0\A6_Rectangle Area Calculator.runtimeconfig.json
+C:\Users\ashah\source\repos\Oops Assignments\A6_Rectangle Area Calculator\bin\Debug\net8.0\A6_Rectangle Area Calculator.dll
+C:\Users\ashah\source\repos\Oops Assignments\A6_Rectangle Area Calculator\bin\Debug\net8.0\A6_Rectangle Area Calculator.pdb
+C:\Users\ashah\source\repos\Oops Assignments\A6_Rectangle Area Calculator\obj\Debug\net8.0\A6_Rectangle Area Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashah\source\repos\Oops Assignments\A6_Rectangle Area Calculator\obj\Debug\net8.0\A6_Rectangle Area Calculator.AssemblyInfoInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\A6_Rectangle Area Calculator\obj\Debug\net8.0\A6_Rectangle Area Calculator.AssemblyInfo.cs
+C:\Users\ashah\source\repos\Oops Assignments\A6_Rectangle Area Calculator\obj\Debug\net8.0\A6_Rectangle Area Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\A6_Rectangle Area Calculator\obj\Debug\net8.0\A6_Rectangle Area Calculator.dll
+C:\Users\ashah\source\repos\Oops Assignments\A6_Rectangle Area Calculator\obj\Debug\net8.0\refint\A6_Rectangle Area Calculator.dll
+C:\Users\ashah\source\repos\Oops Assignments\A6_Rectangle Area Calculator\obj\Debug\net8.0\A6_Rectangle Area Calculator.pdb
+C:\Users\ashah\source\repos\Oops Assignments\A6_Rectangle Area Calculator\obj\Debug\net8.0\A6_Rectangle Area Calculator.genruntimeconfig.cache
+C:\Users\ashah\source\repos\Oops Assignments\A6_Rectangle Area Calculator\obj\Debug\net8.0\ref\A6_Rectangle Area Calculator.dll

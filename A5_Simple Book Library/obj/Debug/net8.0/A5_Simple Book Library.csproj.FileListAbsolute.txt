@@ -1,0 +1,14 @@
+C:\Users\ashah\source\repos\Oops Assignments\A5_Simple Book Library\bin\Debug\net8.0\A5_Simple Book Library.exe
+C:\Users\ashah\source\repos\Oops Assignments\A5_Simple Book Library\bin\Debug\net8.0\A5_Simple Book Library.deps.json
+C:\Users\ashah\source\repos\Oops Assignments\A5_Simple Book Library\bin\Debug\net8.0\A5_Simple Book Library.runtimeconfig.json
+C:\Users\ashah\source\repos\Oops Assignments\A5_Simple Book Library\bin\Debug\net8.0\A5_Simple Book Library.dll
+C:\Users\ashah\source\repos\Oops Assignments\A5_Simple Book Library\bin\Debug\net8.0\A5_Simple Book Library.pdb
+C:\Users\ashah\source\repos\Oops Assignments\A5_Simple Book Library\obj\Debug\net8.0\A5_Simple Book Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashah\source\repos\Oops Assignments\A5_Simple Book Library\obj\Debug\net8.0\A5_Simple Book Library.AssemblyInfoInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\A5_Simple Book Library\obj\Debug\net8.0\A5_Simple Book Library.AssemblyInfo.cs
+C:\Users\ashah\source\repos\Oops Assignments\A5_Simple Book Library\obj\Debug\net8.0\A5_Simple Book Library.csproj.CoreCompileInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\A5_Simple Book Library\obj\Debug\net8.0\A5_Simple Book Library.dll
+C:\Users\ashah\source\repos\Oops Assignments\A5_Simple Book Library\obj\Debug\net8.0\refint\A5_Simple Book Library.dll
+C:\Users\ashah\source\repos\Oops Assignments\A5_Simple Book Library\obj\Debug\net8.0\A5_Simple Book Library.pdb
+C:\Users\ashah\source\repos\Oops Assignments\A5_Simple Book Library\obj\Debug\net8.0\A5_Simple Book Library.genruntimeconfig.cache
+C:\Users\ashah\source\repos\Oops Assignments\A5_Simple Book Library\obj\Debug\net8.0\ref\A5_Simple Book Library.dll
