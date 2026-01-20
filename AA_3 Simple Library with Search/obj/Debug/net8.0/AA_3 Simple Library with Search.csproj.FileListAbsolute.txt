@@ -1,0 +1,14 @@
+C:\Users\ashah\source\repos\Oops Assignments\AA_3 Simple Library with Search\bin\Debug\net8.0\AA_3 Simple Library with Search.exe
+C:\Users\ashah\source\repos\Oops Assignments\AA_3 Simple Library with Search\bin\Debug\net8.0\AA_3 Simple Library with Search.deps.json
+C:\Users\ashah\source\repos\Oops Assignments\AA_3 Simple Library with Search\bin\Debug\net8.0\AA_3 Simple Library with Search.runtimeconfig.json
+C:\Users\ashah\source\repos\Oops Assignments\AA_3 Simple Library with Search\bin\Debug\net8.0\AA_3 Simple Library with Search.dll
+C:\Users\ashah\source\repos\Oops Assignments\AA_3 Simple Library with Search\bin\Debug\net8.0\AA_3 Simple Library with Search.pdb
+C:\Users\ashah\source\repos\Oops Assignments\AA_3 Simple Library with Search\obj\Debug\net8.0\AA_3 Simple Library with Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashah\source\repos\Oops Assignments\AA_3 Simple Library with Search\obj\Debug\net8.0\AA_3 Simple Library with Search.AssemblyInfoInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\AA_3 Simple Library with Search\obj\Debug\net8.0\AA_3 Simple Library with Search.AssemblyInfo.cs
+C:\Users\ashah\source\repos\Oops Assignments\AA_3 Simple Library with Search\obj\Debug\net8.0\AA_3 Simple Library with Search.csproj.CoreCompileInputs.cache
+C:\Users\ashah\source\repos\Oops Assignments\AA_3 Simple Library with Search\obj\Debug\net8.0\AA_3 Simple Library with Search.dll
+C:\Users\ashah\source\repos\Oops Assignments\AA_3 Simple Library with Search\obj\Debug\net8.0\refint\AA_3 Simple Library with Search.dll
+C:\Users\ashah\source\repos\Oops Assignments\AA_3 Simple Library with Search\obj\Debug\net8.0\AA_3 Simple Library with Search.pdb
+C:\Users\ashah\source\repos\Oops Assignments\AA_3 Simple Library with Search\obj\Debug\net8.0\AA_3 Simple Library with Search.genruntimeconfig.cache
+C:\Users\ashah\source\repos\Oops Assignments\AA_3 Simple Library with Search\obj\Debug\net8.0\ref\AA_3 Simple Library with Search.dll

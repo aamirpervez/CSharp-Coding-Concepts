@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AA_3 Simple Library with Search/1.0.0": {
+        "runtime": {
+          "AA_3 Simple Library with Search.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AA_3 Simple Library with Search/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
